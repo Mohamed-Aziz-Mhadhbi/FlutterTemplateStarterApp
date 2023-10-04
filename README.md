@@ -1,8 +1,3 @@
-[![Flutter CI](https://github.com/EliaTolin/flutter-template-starter-app/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/EliaTolin/flutter-template-starter-app/actions/workflows/flutter_ci.yml)
-[![Code Quality](https://github.com/EliaTolin/flutter-template-starter-app/actions/workflows/code_quality_flutter.yml/badge.svg)](https://github.com/EliaTolin/flutter-template-starter-app/actions/workflows/code_quality_flutter.yml)
-
-![Flutter Starter App](https://github.com/EliaTolin/flutter-template-starter-app/assets/60351315/df279758-867d-4265-a3fc-d637e5305819)
-
 ## Description
 
 This repository serves as a template for a Flutter app, providing a modular structure and integrating various packages and functionalities. The project aims to offer a solid foundation for building robust Flutter applications with the following features:
